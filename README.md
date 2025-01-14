@@ -9,5 +9,5 @@
 <p><b>Case Study 4 -Ecommerce Purchase Dataset:</b> Investigated purchasing behaviors and trends, deriving insights using EDA and visualization techniques.</p>
 <p><b>Case Study 5 - Udemy Course Dataset:</b> Analyzed course trends, ratings, and pricing using aggregation, visualization, and filtering techniques.</p>
 <p><b>Case Study 6 - Google Play Store Dataset:</b> Analyzed app ratings, reviews, categories, and pricing to uncover trends and patterns through EDA and visualizations.</p>
- 
+<p><b>Case Study 7 - Supermarket Sales :</b> Perform EDA to find insight from data and make data driven decision.</p>
 <p>These notebooks are designed to be beginner-friendly and serve as valuable resources for anyone looking to learn and practice Pandas and EDA through practical examples.</p>
