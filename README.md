@@ -1,3 +1,15 @@
+# What is EDA?  
+Exploratory Data Analysis (EDA) is the process of examining and analyzing data to understand its structure, patterns, and key characteristics. It helps in identifying trends, relationships, and any anomalies in the data.  
+
+Steps in EDA:
+  -  Understand the Data: Review the dataset structure, column names, data types, and size.  
+  -  Data Cleaning: Handle missing values, duplicate data, and incorrect data types.  
+  -  Descriptive Statistics: Calculate measures like mean, median, and standard deviation to summarize the data.  
+  -  Univariate Analysis: Analyze individual columns to study distributions and detect outliers.  
+  -  Bivariate Analysis: Explore relationships between two variables using visualizations like scatter plots or correlation heatmaps.  
+  -  Multivariate Analysis: Investigate relationships among multiple variables using advanced plots like pair plots or 3D plots.  
+  -  Visualization: Create graphs like histograms, bar charts, and line plots to better understand patterns and insights.  
+
 
 <h2> Pandas Practice and Case Studies </h2>
 
