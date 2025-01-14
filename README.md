@@ -10,6 +10,7 @@ Steps in EDA:
   -  Multivariate Analysis: Investigate relationships among multiple variables using advanced plots like pair plots or 3D plots.  
   -  Visualization: Create graphs like histograms, bar charts, and line plots to better understand patterns and insights.  
 
+![image alt](https://github.com/Sushant072003/Pandas_Case_Study/blob/9367fc2c5b6e6331b27df9a52bd266a561620715/image1.jpeg)
 
 <h2> Pandas Practice and Case Studies </h2>
 
